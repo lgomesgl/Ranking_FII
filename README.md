@@ -7,9 +7,11 @@ This code is based on my game plan:
 - Found rentable yields//around 1% per month(mean),
 - Found FII´s with variable assets//safety.
 
+# Obs:
+
 If you have another strategy, change the GAME PLAN. For change that, just go in function filter_per_sector
 and change the parameters in filter_
 
-*For this code I use the Firefox at the function webscrapping, you can change from Chrome(or another).
+For this code I use the Firefox at the function webscrapping, you can change from Chrome(or another).
 
 
